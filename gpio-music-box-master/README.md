@@ -8,15 +8,11 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 
 ### Hardware
 
-- 1 x Solderless breadboard (e.g. from [Pimoroni](http://shop.pimoroni.com/products/solderless-breadboard-400-point))
-- 3 (or more) x Male-to-female jumper leads (e.g. from [Pimoroni](http://shop.pimoroni.com/products/jumper-jerky))
-- 1 x Male-to-male jumper leads (e.g. from [Pimoroni](http://shop.pimoroni.com/products/jumper-jerky))
-- 2 (or more) x Tactile button (e.g. from [RS Components](http://uk.rs-online.com/web/p/tactile-switches/7182443/))
+- 1 x Solderless breadboard 
+- 3 (or more) x Male-to-female jumper leads 
+- 1 x Male-to-male jumper leads 
+- 2 (or more) x Tactile button 
 - Headphones or a speaker
-
-## Worksheet
-
-[Go to the worksheet](worksheet.md)
 
 ## Licence
 
@@ -26,4 +22,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***GPIO Music Box*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/gpio-music-box
+
