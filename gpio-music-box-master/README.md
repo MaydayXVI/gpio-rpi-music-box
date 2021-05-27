@@ -1,6 +1,6 @@
 # GPIO Music Box
 
-Wire up a series of buttons that play particular sounds when pressed
+Wired up a series of buttons that play particular sounds when pressed
 
 ## Requirements
 
